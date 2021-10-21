@@ -2,6 +2,7 @@
 
 This project scrapes professor and school data from ratemyprofessors.com and inserts it into sql server tables. Below is a description of each files:
 
+# Scripts
 Database_Config.py - read the config variables from the .ini file
 Database_Utility.py - a library of database functions to execute sql queries
 ProfessorTaskTable.py - populates a task table (list of urls) that is used by RateMyProfessor.py & RatemyProfessorSchools.py
