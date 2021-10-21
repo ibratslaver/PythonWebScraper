@@ -1,4 +1,4 @@
-# Projects
+# Project Description 
 
 This project scrapes professor and school data from ratemyprofessors.com and inserts it into sql server tables. Below is a description of each files:
 
